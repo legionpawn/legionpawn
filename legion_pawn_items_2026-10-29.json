@@ -1,0 +1,1232 @@
+[
+  {
+    "name": "Advanced Lockpick",
+    "price": 1000,
+    "selling_price": 1750,
+    "category": "heist"
+  },
+  {
+    "name": "ARTIFACT Heist Bag",
+    "price": 23000,
+    "selling_price": 28000,
+    "category": "heist"
+  },
+  {
+    "name": "BETTA BANK Heist Bag",
+    "price": 29000,
+    "selling_price": 40500,
+    "category": "heist"
+  },
+  {
+    "name": "Big Drill",
+    "price": 10000,
+    "selling_price": 11500,
+    "category": "heist"
+  },
+  {
+    "name": "Blue Bag",
+    "price": 3500,
+    "selling_price": 4500,
+    "category": "heist"
+  },
+  {
+    "name": "Bolt Cutter",
+    "price": 8500,
+    "selling_price": 10000,
+    "category": "heist"
+  },
+  {
+    "name": "c4",
+    "price": 20000,
+    "selling_price": 25000,
+    "category": "heist"
+  },
+  {
+    "name": "C4 Bomb",
+    "price": 20000,
+    "selling_price": 23500,
+    "category": "heist"
+  },
+  {
+    "name": "Crowbar",
+    "price": 2500,
+    "selling_price": 6500,
+    "category": "heist"
+  },
+  {
+    "name": "Cutter",
+    "price": 15000,
+    "selling_price": 17500,
+    "category": "heist"
+  },
+  {
+    "name": "Drill",
+    "price": 3500,
+    "selling_price": 4500,
+    "category": "heist"
+  },
+  {
+    "name": "Duct Tape",
+    "price": 1000,
+    "selling_price": 1550,
+    "category": "heist"
+  },
+  {
+    "name": "FLEECA Heist Bag",
+    "price": 31000,
+    "selling_price": 45000,
+    "category": "heist"
+  },
+  {
+    "name": "Gas Cutter",
+    "price": 15000,
+    "selling_price": 18500,
+    "category": "heist"
+  },
+  {
+    "name": "Gatecrack",
+    "price": 4500,
+    "selling_price": 6000,
+    "category": "heist"
+  },
+  {
+    "name": "Gold Laptop",
+    "price": 20000,
+    "selling_price": 25000,
+    "category": "heist"
+  },
+  {
+    "name": "Green Laptop",
+    "price": 10000,
+    "selling_price": 12500,
+    "category": "heist"
+  },
+  {
+    "name": "Hacking Device",
+    "price": 7000,
+    "selling_price": 9500,
+    "category": "heist"
+  },
+  {
+    "name": "Laptop",
+    "price": 6800,
+    "selling_price": 8500,
+    "category": "heist"
+  },
+  {
+    "name": "Large Drill",
+    "price": 10000,
+    "selling_price": 12500,
+    "category": "heist"
+  },
+  {
+    "name": "PALETO BANK Heist Bag",
+    "price": 14000,
+    "selling_price": 30000,
+    "category": "heist"
+  },
+  {
+    "name": "PD Pass",
+    "price": 3500,
+    "selling_price": 5000,
+    "category": "heist"
+  },
+  {
+    "name": "Plasma Cutter",
+    "price": 7500,
+    "selling_price": 10000,
+    "category": "heist"
+  },
+  {
+    "name": "Software USB",
+    "price": 1500,
+    "selling_price": 3000,
+    "category": "heist"
+  },
+  {
+    "name": "Thermite",
+    "price": 4500,
+    "selling_price": 6500,
+    "category": "heist"
+  },
+  {
+    "name": "USB Pink",
+    "price": 7500,
+    "selling_price": 9000,
+    "category": "heist"
+  },
+  {
+    "name": "1OZ Gold Bar",
+    "price": 1550,
+    "selling_price": 1850,
+    "category": "metal"
+  },
+  {
+    "name": "1OZ Silver Bar",
+    "price": 965,
+    "selling_price": 1200,
+    "category": "metal"
+  },
+  {
+    "name": "Ancient Coin",
+    "price": 1040,
+    "selling_price": 1300,
+    "category": "metal"
+  },
+  {
+    "name": "Ancient Red Gem",
+    "price": 1200,
+    "selling_price": 1600,
+    "category": "metal"
+  },
+  {
+    "name": "Black Watch",
+    "price": 550,
+    "selling_price": 650,
+    "category": "metal"
+  },
+  {
+    "name": "Bottlecap",
+    "price": 5,
+    "selling_price": 10,
+    "category": "metal"
+  },
+  {
+    "name": "Broken Gold Chain",
+    "price": 550,
+    "selling_price": 800,
+    "category": "metal"
+  },
+  {
+    "name": "Broken Junk",
+    "price": 75,
+    "selling_price": 100,
+    "category": "metal"
+  },
+  {
+    "name": "Copper Nugget",
+    "price": 360,
+    "selling_price": 450,
+    "category": "metal"
+  },
+  {
+    "name": "Crushed Can",
+    "price": 145,
+    "selling_price": 200,
+    "category": "metal"
+  },
+  {
+    "name": "Decorated Pot",
+    "price": 2050,
+    "selling_price": 2400,
+    "category": "metal"
+  },
+  {
+    "name": "Diamond Earrings",
+    "price": 1250,
+    "selling_price": 1500,
+    "category": "metal"
+  },
+  {
+    "name": "Diamond Necklace",
+    "price": 1250,
+    "selling_price": 1500,
+    "category": "metal"
+  },
+  {
+    "name": "Diamond Ring",
+    "price": 1200,
+    "selling_price": 1500,
+    "category": "metal"
+  },
+  {
+    "name": "E Chain",
+    "price": 640,
+    "selling_price": 800,
+    "category": "metal"
+  },
+  {
+    "name": "Ear Pod",
+    "price": 585,
+    "selling_price": 800,
+    "category": "metal"
+  },
+  {
+    "name": "Fossil",
+    "price": 1000,
+    "selling_price": 1350,
+    "category": "metal"
+  },
+  {
+    "name": "Gold Dollar",
+    "price": 1040,
+    "selling_price": 1300,
+    "category": "metal"
+  },
+  {
+    "name": "Gold Earrings",
+    "price": 900,
+    "selling_price": 1200,
+    "category": "metal"
+  },
+  {
+    "name": "Gold Necklace",
+    "price": 1050,
+    "selling_price": 1400,
+    "category": "metal"
+  },
+  {
+    "name": "Gold Nugget",
+    "price": 1450,
+    "selling_price": 1750,
+    "category": "metal"
+  },
+  {
+    "name": "Gold Ring",
+    "price": 1250,
+    "selling_price": 1500,
+    "category": "metal"
+  },
+  {
+    "name": "Half Dollar",
+    "price": 680,
+    "selling_price": 850,
+    "category": "metal"
+  },
+  {
+    "name": "Iron Nugget",
+    "price": 625,
+    "selling_price": 750,
+    "category": "metal"
+  },
+  {
+    "name": "Lighter",
+    "price": 8,
+    "selling_price": 12,
+    "category": "metal"
+  },
+  {
+    "name": "Metal Can",
+    "price": 8,
+    "selling_price": 14,
+    "category": "metal"
+  },
+  {
+    "name": "Mythic Fossil",
+    "price": 1100,
+    "selling_price": 1400,
+    "category": "metal"
+  },
+  {
+    "name": "Nails",
+    "price": 11,
+    "selling_price": 18,
+    "category": "metal"
+  },
+  {
+    "name": "Needle",
+    "price": 14,
+    "selling_price": 20,
+    "category": "metal"
+  },
+  {
+    "name": "Nickle",
+    "price": 230,
+    "selling_price": 300,
+    "category": "metal"
+  },
+  {
+    "name": "Nutails",
+    "price": 15,
+    "selling_price": 22,
+    "category": "metal"
+  },
+  {
+    "name": "Old Shotgun Shell",
+    "price": 18,
+    "selling_price": 25,
+    "category": "metal"
+  },
+  {
+    "name": "Onyx Relic",
+    "price": 850,
+    "selling_price": 1200,
+    "category": "metal"
+  },
+  {
+    "name": "Paper Clip",
+    "price": 15,
+    "selling_price": 28,
+    "category": "metal"
+  },
+  {
+    "name": "Platinum Nugget",
+    "price": 1400,
+    "selling_price": 1700,
+    "category": "metal"
+  },
+  {
+    "name": "Pot",
+    "price": 850,
+    "selling_price": 1150,
+    "category": "metal"
+  },
+  {
+    "name": "Presidential Watch",
+    "price": 1150,
+    "selling_price": 1400,
+    "category": "metal"
+  },
+  {
+    "name": "Prince Ruby",
+    "price": 1360,
+    "selling_price": 1600,
+    "category": "metal"
+  },
+  {
+    "name": "Pull Tab",
+    "price": 25,
+    "selling_price": 35,
+    "category": "metal"
+  },
+  {
+    "name": "Quarter",
+    "price": 500,
+    "selling_price": 600,
+    "category": "metal"
+  },
+  {
+    "name": "Rare Fossil",
+    "price": 1250,
+    "selling_price": 1500,
+    "category": "metal"
+  },
+  {
+    "name": "Relic",
+    "price": 985,
+    "selling_price": 1250,
+    "category": "metal"
+  },
+  {
+    "name": "Relic Revolver",
+    "price": 650,
+    "selling_price": 800,
+    "category": "metal"
+  },
+  {
+    "name": "Rusty Ball",
+    "price": 30,
+    "selling_price": 45,
+    "category": "metal"
+  },
+  {
+    "name": "Rusty Iron Ball",
+    "price": 35,
+    "selling_price": 55,
+    "category": "metal"
+  },
+  {
+    "name": "Rusty Junk",
+    "price": 45,
+    "selling_price": 70,
+    "category": "metal"
+  },
+  {
+    "name": "Rusty Nails",
+    "price": 50,
+    "selling_price": 90,
+    "category": "metal"
+  },
+  {
+    "name": "Rusty Pliers",
+    "price": 80,
+    "selling_price": 110,
+    "category": "metal"
+  },
+  {
+    "name": "Rusty Ring",
+    "price": 150,
+    "selling_price": 200,
+    "category": "metal"
+  },
+  {
+    "name": "Rusty Scissors",
+    "price": 165,
+    "selling_price": 220,
+    "category": "metal"
+  },
+  {
+    "name": "Rusty Screwdriver",
+    "price": 175,
+    "selling_price": 230,
+    "category": "metal"
+  },
+  {
+    "name": "Rusty Spring",
+    "price": 185,
+    "selling_price": 250,
+    "category": "metal"
+  },
+  {
+    "name": "Screw",
+    "price": 200,
+    "selling_price": 270,
+    "category": "metal"
+  },
+  {
+    "name": "Silver Dime",
+    "price": 520,
+    "selling_price": 650,
+    "category": "metal"
+  },
+  {
+    "name": "Silver Earrings",
+    "price": 800,
+    "selling_price": 1000,
+    "category": "metal"
+  },
+  {
+    "name": "Silver Ring",
+    "price": 800,
+    "selling_price": 1000,
+    "category": "metal"
+  },
+  {
+    "name": "Skull",
+    "price": 750,
+    "selling_price": 1050,
+    "category": "metal"
+  },
+  {
+    "name": "Slate Tablet",
+    "price": 1500,
+    "selling_price": 1800,
+    "category": "metal"
+  },
+  {
+    "name": "Time Capsule",
+    "price": 2250,
+    "selling_price": 2700,
+    "category": "metal"
+  },
+  {
+    "name": "Wheat Penny",
+    "price": 220,
+    "selling_price": 280,
+    "category": "metal"
+  },
+  {
+    "name": "10K Gold Chain",
+    "price": 2800,
+    "selling_price": 3500,
+    "category": "normal"
+  },
+  {
+    "name": "All-in-One Printer",
+    "price": 4000,
+    "selling_price": 5000,
+    "category": "normal"
+  },
+  {
+    "name": "Astronomy Telescope",
+    "price": 4800,
+    "selling_price": 6000,
+    "category": "normal"
+  },
+  {
+    "name": "Asylum Doll(any number)",
+    "price": 28000,
+    "selling_price": 35000,
+    "category": "normal"
+  },
+  {
+    "name": "Asylum Gold Necklace",
+    "price": 4650,
+    "selling_price": 5500,
+    "category": "normal"
+  },
+  {
+    "name": "Asylum Golden Egg",
+    "price": 82500,
+    "selling_price": 100000,
+    "category": "normal"
+  },
+  {
+    "name": "Asylum Prime Egg",
+    "price": 125000,
+    "selling_price": 150000,
+    "category": "normal"
+  },
+  {
+    "name": "Asylum Prime Necklace",
+    "price": 5350,
+    "selling_price": 6500,
+    "category": "normal"
+  },
+  {
+    "name": "Audio System",
+    "price": 4400,
+    "selling_price": 5500,
+    "category": "normal"
+  },
+  {
+    "name": "Ballers Egg",
+    "price": 46750,
+    "selling_price": 55000,
+    "category": "normal"
+  },
+  {
+    "name": "Boerboel Egg",
+    "price": 46750,
+    "selling_price": 55000,
+    "category": "normal"
+  },
+  {
+    "name": "Boertjies Egg",
+    "price": 46750,
+    "selling_price": 55000,
+    "category": "normal"
+  },
+  {
+    "name": "Camera",
+    "price": 4400,
+    "selling_price": 5500,
+    "category": "normal"
+  },
+  {
+    "name": "Canary Diamond",
+    "price": 16000,
+    "selling_price": 20000,
+    "category": "normal"
+  },
+  {
+    "name": "Canary Diamond Necklace",
+    "price": 16800,
+    "selling_price": 21000,
+    "category": "normal"
+  },
+  {
+    "name": "Canary Diamond Necklace Silver",
+    "price": 16720,
+    "selling_price": 20900,
+    "category": "normal"
+  },
+  {
+    "name": "captains skull",
+    "price": 140000,
+    "selling_price": 175000,
+    "category": "normal"
+  },
+  {
+    "name": "Cartel Egg",
+    "price": 46750,
+    "selling_price": 55000,
+    "category": "normal"
+  },
+  {
+    "name": "Classic Microwave",
+    "price": 3600,
+    "selling_price": 4500,
+    "category": "normal"
+  },
+  {
+    "name": "Classic Toaster",
+    "price": 800,
+    "selling_price": 1000,
+    "category": "normal"
+  },
+  {
+    "name": "Coffee Maker",
+    "price": 2400,
+    "selling_price": 3000,
+    "category": "normal"
+  },
+  {
+    "name": "CRT Television",
+    "price": 2800,
+    "selling_price": 3500,
+    "category": "normal"
+  },
+  {
+    "name": "Data Drive",
+    "price": 4400,
+    "selling_price": 5500,
+    "category": "normal"
+  },
+  {
+    "name": "Deluxe Treasure Map",
+    "price": 765,
+    "selling_price": 900,
+    "category": "normal"
+  },
+  {
+    "name": "Diamond",
+    "price": 500,
+    "selling_price": 600,
+    "category": "normal"
+  },
+  {
+    "name": "Diamond Bar",
+    "price": 1700,
+    "selling_price": 2000,
+    "category": "normal"
+  },
+  {
+    "name": "Diamond Earrings",
+    "price": 765,
+    "selling_price": 900,
+    "category": "normal"
+  },
+  {
+    "name": "Diamond Necklace",
+    "price": 3000,
+    "selling_price": 4600,
+    "category": "normal"
+  },
+  {
+    "name": "Diamond Necklace",
+    "price": 1275,
+    "selling_price": 1500,
+    "category": "normal"
+  },
+  {
+    "name": "Diamond Ring",
+    "price": 765,
+    "selling_price": 900,
+    "category": "normal"
+  },
+  {
+    "name": "Diamond Ring Silver",
+    "price": 765,
+    "selling_price": 900,
+    "category": "normal"
+  },
+  {
+    "name": "Digital Scales",
+    "price": 1600,
+    "selling_price": 2000,
+    "category": "normal"
+  },
+  {
+    "name": "Dino Egg",
+    "price": 12500,
+    "selling_price": 15000,
+    "category": "normal"
+  },
+  {
+    "name": "Dragon Ring",
+    "price": 1360,
+    "selling_price": 1600,
+    "category": "normal"
+  },
+  {
+    "name": "Electric Kettle",
+    "price": 1200,
+    "selling_price": 1500,
+    "category": "normal"
+  },
+  {
+    "name": "Emerald",
+    "price": 300,
+    "selling_price": 400,
+    "category": "normal"
+  },
+  {
+    "name": "Emerald Earrings",
+    "price": 680,
+    "selling_price": 800,
+    "category": "normal"
+  },
+  {
+    "name": "Emerald Necklace",
+    "price": 1020,
+    "selling_price": 1200,
+    "category": "normal"
+  },
+  {
+    "name": "Emerald Ring",
+    "price": 680,
+    "selling_price": 800,
+    "category": "normal"
+  },
+  {
+    "name": "Fancy Kitty Art",
+    "price": 9200,
+    "selling_price": 11500,
+    "category": "normal"
+  },
+  {
+    "name": "Gaming Console",
+    "price": 6000,
+    "selling_price": 7500,
+    "category": "normal"
+  },
+  {
+    "name": "Gang Tablet",
+    "price": 28000,
+    "selling_price": 35000,
+    "category": "normal"
+  },
+  {
+    "name": "Gemstone Necklace",
+    "price": 3800,
+    "selling_price": 4750,
+    "category": "normal"
+  },
+  {
+    "name": "Gemstone Necklace Silver",
+    "price": 3000,
+    "selling_price": 4650,
+    "category": "normal"
+  },
+  {
+    "name": "Gold Bar",
+    "price": 1450,
+    "selling_price": 1750,
+    "category": "normal"
+  },
+  {
+    "name": "Gold Ingot",
+    "price": 300,
+    "selling_price": 400,
+    "category": "normal"
+  },
+  {
+    "name": "Gold Ring",
+    "price": 425,
+    "selling_price": 500,
+    "category": "normal"
+  },
+  {
+    "name": "Golden Chain",
+    "price": 500,
+    "selling_price": 600,
+    "category": "normal"
+  },
+  {
+    "name": "Golden Earrings",
+    "price": 340,
+    "selling_price": 400,
+    "category": "normal"
+  },
+  {
+    "name": "Golden Pogo",
+    "price": 62500,
+    "selling_price": 75000,
+    "category": "normal"
+  },
+  {
+    "name": "Golden Watch",
+    "price": 340,
+    "selling_price": 400,
+    "category": "normal"
+  },
+  {
+    "name": "GSF Egg",
+    "price": 46750,
+    "selling_price": 55000,
+    "category": "normal"
+  },
+  {
+    "name": "Heavy Armor",
+    "price": 210,
+    "selling_price": 250,
+    "category": "normal"
+  },
+  {
+    "name": "iPhone 13",
+    "price": 280,
+    "selling_price": 350,
+    "category": "normal"
+  },
+  {
+    "name": "Laptop",
+    "price": 450,
+    "selling_price": 550,
+    "category": "normal"
+  },
+  {
+    "name": "LCD Monitor",
+    "price": 3600,
+    "selling_price": 4500,
+    "category": "normal"
+  },
+  {
+    "name": "LED Television",
+    "price": 5200,
+    "selling_price": 6500,
+    "category": "normal"
+  },
+  {
+    "name": "Lost Egg",
+    "price": 46750,
+    "selling_price": 55000,
+    "category": "normal"
+  },
+  {
+    "name": "Mafia Egg",
+    "price": 46750,
+    "selling_price": 55000,
+    "category": "normal"
+  },
+  {
+    "name": "Marabunta Egg",
+    "price": 46750,
+    "selling_price": 55000,
+    "category": "normal"
+  },
+  {
+    "name": "Microwave",
+    "price": 3600,
+    "selling_price": 4500,
+    "category": "normal"
+  },
+  {
+    "name": "Modern Microwave",
+    "price": 4400,
+    "selling_price": 5500,
+    "category": "normal"
+  },
+  {
+    "name": "Modern Toaster",
+    "price": 1200,
+    "selling_price": 1500,
+    "category": "normal"
+  },
+  {
+    "name": "Music Dock",
+    "price": 1600,
+    "selling_price": 2000,
+    "category": "normal"
+  },
+  {
+    "name": "obiwan painting",
+    "price": 8000,
+    "selling_price": 11500,
+    "category": "normal"
+  },
+  {
+    "name": "Panther",
+    "price": 60000,
+    "selling_price": 75000,
+    "category": "normal"
+  },
+  {
+    "name": "Perlemoen",
+    "price": 7500,
+    "selling_price": 10000,
+    "category": "normal"
+  },
+  {
+    "name": "Portable Boombox",
+    "price": 2000,
+    "selling_price": 2500,
+    "category": "normal"
+  },
+  {
+    "name": "Premium Treasure Map",
+    "price": 600,
+    "selling_price": 800,
+    "category": "normal"
+  },
+  {
+    "name": "Presidential Kitty Art",
+    "price": 9200,
+    "selling_price": 11500,
+    "category": "normal"
+  },
+  {
+    "name": "Professional Hair Dryer",
+    "price": 1600,
+    "selling_price": 2000,
+    "category": "normal"
+  },
+  {
+    "name": "PS5",
+    "price": 4400,
+    "selling_price": 5500,
+    "category": "normal"
+  },
+  {
+    "name": "Radio Cassette Player",
+    "price": 1200,
+    "selling_price": 1500,
+    "category": "normal"
+  },
+  {
+    "name": "Recycle Box",
+    "price": 250,
+    "selling_price": 300,
+    "category": "normal"
+  },
+  {
+    "name": "Ruby",
+    "price": 285,
+    "selling_price": 350,
+    "category": "normal"
+  },
+  {
+    "name": "Ruby Chain",
+    "price": 640,
+    "selling_price": 800,
+    "category": "normal"
+  },
+  {
+    "name": "Ruby Earrings",
+    "price": 595,
+    "selling_price": 700,
+    "category": "normal"
+  },
+  {
+    "name": "Ruby Necklace",
+    "price": 850,
+    "selling_price": 1000,
+    "category": "normal"
+  },
+  {
+    "name": "Ruby Ring",
+    "price": 595,
+    "selling_price": 700,
+    "category": "normal"
+  },
+  {
+    "name": "Ruby Wolf Earrings",
+    "price": 1360,
+    "selling_price": 1600,
+    "category": "normal"
+  },
+  {
+    "name": "Samsung Phone",
+    "price": 4400,
+    "selling_price": 5500,
+    "category": "normal"
+  },
+  {
+    "name": "Samsung S10",
+    "price": 450,
+    "selling_price": 550,
+    "category": "normal"
+  },
+  {
+    "name": "Sapphire",
+    "price": 255,
+    "selling_price": 300,
+    "category": "normal"
+  },
+  {
+    "name": "Sapphire Earrings",
+    "price": 510,
+    "selling_price": 600,
+    "category": "normal"
+  },
+  {
+    "name": "Sapphire Necklace",
+    "price": 1000,
+    "selling_price": 1200,
+    "category": "normal"
+  },
+  {
+    "name": "Sapphire Ring",
+    "price": 510,
+    "selling_price": 600,
+    "category": "normal"
+  },
+  {
+    "name": "Silver Chain",
+    "price": 700,
+    "selling_price": 800,
+    "category": "normal"
+  },
+  {
+    "name": "Silver Diamond Earrings",
+    "price": 765,
+    "selling_price": 900,
+    "category": "normal"
+  },
+  {
+    "name": "Silver Diamond Necklace",
+    "price": 1700,
+    "selling_price": 2000,
+    "category": "normal"
+  },
+  {
+    "name": "Silver Earrings",
+    "price": 340,
+    "selling_price": 400,
+    "category": "normal"
+  },
+  {
+    "name": "Silver Emerald Earrings",
+    "price": 680,
+    "selling_price": 800,
+    "category": "normal"
+  },
+  {
+    "name": "Silver Emerald Necklace",
+    "price": 1275,
+    "selling_price": 1500,
+    "category": "normal"
+  },
+  {
+    "name": "Silver Emerald Ring",
+    "price": 680,
+    "selling_price": 800,
+    "category": "normal"
+  },
+  {
+    "name": "Silver Ingot",
+    "price": 340,
+    "selling_price": 400,
+    "category": "normal"
+  },
+  {
+    "name": "Silver Ring",
+    "price": 550,
+    "selling_price": 650,
+    "category": "normal"
+  },
+  {
+    "name": "Silver Ruby Earrings",
+    "price": 595,
+    "selling_price": 699,
+    "category": "normal"
+  },
+  {
+    "name": "Silver Ruby Necklace",
+    "price": 1275,
+    "selling_price": 1500,
+    "category": "normal"
+  },
+  {
+    "name": "Silver Ruby Ring",
+    "price": 600,
+    "selling_price": 700,
+    "category": "normal"
+  },
+  {
+    "name": "Silver Sapphire Earrings",
+    "price": 510,
+    "selling_price": 600,
+    "category": "normal"
+  },
+  {
+    "name": "Silver Sapphire Necklace",
+    "price": 1275,
+    "selling_price": 1500,
+    "category": "normal"
+  },
+  {
+    "name": "Silver Sapphire Ring",
+    "price": 510,
+    "selling_price": 600,
+    "category": "normal"
+  },
+  {
+    "name": "Skull Ring",
+    "price": 1360,
+    "selling_price": 1600,
+    "category": "normal"
+  },
+  {
+    "name": "Smart Television",
+    "price": 7600,
+    "selling_price": 9500,
+    "category": "normal"
+  },
+  {
+    "name": "SOA Egg",
+    "price": 46750,
+    "selling_price": 55000,
+    "category": "normal"
+  },
+  {
+    "name": "Sovereign Pendant",
+    "price": 9600,
+    "selling_price": 12000,
+    "category": "normal"
+  },
+  {
+    "name": "Stand Mixer",
+    "price": 3200,
+    "selling_price": 4000,
+    "category": "normal"
+  },
+  {
+    "name": "Stolen Computer",
+    "price": 1240,
+    "selling_price": 1550,
+    "category": "normal"
+  },
+  {
+    "name": "Stolen TV",
+    "price": 1240,
+    "selling_price": 1550,
+    "category": "normal"
+  },
+  {
+    "name": "Tablet",
+    "price": 440,
+    "selling_price": 550,
+    "category": "normal"
+  },
+  {
+    "name": "Treasure Map",
+    "price": 350,
+    "selling_price": 650,
+    "category": "normal"
+  },
+  {
+    "name": "Uncut Diamond",
+    "price": 100,
+    "selling_price": 100,
+    "category": "normal"
+  },
+  {
+    "name": "Uncut Emerald",
+    "price": 70,
+    "selling_price": 70,
+    "category": "normal"
+  },
+  {
+    "name": "Uncut Ruby",
+    "price": 60,
+    "selling_price": 60,
+    "category": "normal"
+  },
+  {
+    "name": "Uncut Sapphire",
+    "price": 50,
+    "selling_price": 50,
+    "category": "normal"
+  },
+  {
+    "name": "Vagos Egg",
+    "price": 50000,
+    "selling_price": 55000,
+    "category": "normal"
+  },
+  {
+    "name": "VCR Player",
+    "price": 1200,
+    "selling_price": 1500,
+    "category": "normal"
+  },
+  {
+    "name": "Warehouse Key",
+    "price": 350,
+    "selling_price": 500,
+    "category": "normal"
+  },
+  {
+    "name": "Xbox X",
+    "price": 4400,
+    "selling_price": 5500,
+    "category": "normal"
+  },
+  {
+    "name": "Yakuza Egg",
+    "price": 46750,
+    "selling_price": 55000,
+    "category": "normal"
+  }
+]
